@@ -5,9 +5,9 @@ A deep learning algorithm to digitize and classify electrocardiograms (ECGs) cap
 
 This repository contains a Python entry for the [George B. Moody PhysioNet Challenge 2024](https://physionetchallenges.org/2024/).
 
-## How do I run these scripts?
+## How do I run scripts?
 
-First, you can download and create data for these scripts by following the instructions in the following section.
+First, download and create ECG image data by following the instructions in the [How do I create data for these scripts?](#data-creation) section.
 
 Second, you can install the dependencies for these scripts by creating a Docker image (see below) or [virtual environment](https://docs.python.org/3/library/venv.html) and running
 
