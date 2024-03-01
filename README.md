@@ -6,7 +6,7 @@ This repository contains a Python entry for the [George B. Moody PhysioNet Chall
 
 ## How do I run scripts?
 
-First, download and create ECG image data by following the instructions in the [How do I create data for these scripts?](#data-creation) section.
+First, download and create ECG image data by following the instructions in the [How do I create data for these scripts?](#create-data) section.
 
 Second, you can install the dependencies for these scripts by creating a Docker image (see below) or [virtual environment](https://docs.python.org/3/library/venv.html) and running
 
@@ -43,7 +43,7 @@ where
 - `test_outputs` is a folder containing files with your model's outputs for the data; and
 - `scores.csv` (optional) is file with a collection of scores for your model.
 
-## How do I create data for these scripts?
+## How do I create data for these scripts? <a name="create-data"></a>
 
 You can use the scripts in this repository to generate synthetic ECG images for the [PTB-XL dataset](https://www.nature.com/articles/s41597-020-0495-6). You will need to generate or otherwise obtain ECG images before running the above steps.
 
