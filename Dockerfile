@@ -1,4 +1,4 @@
-FROM python:3.8.2
+FROM python:3.12.2
 
 ## DO NOT EDIT these 3 lines.
 RUN mkdir /challenge
