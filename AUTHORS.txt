@@ -1,0 +1,7 @@
+Team name: DeRC
+Members:
+- Weijie Sun: weijie2@ualberta.ca ｜ CS Ph.D student @ University of Alberta
+- Siqi Cao: siqicao811@gmail.com ｜ ISecurity M.S Alma Mater @ Johns Hopkins University / CEO@Frontpoint AI
+- Yang Qi: qi.yang@utah.edu | CS M.S Alma Mater @ University of Utah / SDE@MarthLab in School of Medicine
+- Xin Lin: xlin12559@gmail.com | bioinformatics research assistant @Alt Lab at Boston Children’s Hospital
+- Xiaoxue Zhang: michellexzng@gmail.com | Business Analytic&Management Science student@Western University
