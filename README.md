@@ -3,8 +3,11 @@
 ## What's in this repository?
 
 This repository contains a Python entry for the [George B. Moody PhysioNet Challenge 2024](https://physionetchallenges.org/2024/).
+![DeRC](https://github.com/sikicode/physionet24/assets/19824126/daf6bcf1-c601-4abd-866f-1007273744f1)
+![Intensity Scan](https://github.com/sikicode/physionet24/assets/19824126/101fcf6b-3520-4770-b272-3292d596102f)
 
 ## How do I run scripts?
+
 
 First, download and create ECG image data by following the instructions in the [How do I create data for these scripts?](#create-data) section.
 
